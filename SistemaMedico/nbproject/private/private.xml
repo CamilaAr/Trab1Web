@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/src/java/br/ufscar/dc/SistemaMedico/forms/NovoMedicoFormBean.java</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/src/java/br/ufscar/dc/SitemaMedico/beans/Consulta.java</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/src/java/br/ufscar/dc/SistemaMedico/forms/NovoConsultaFormBean.java</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/web/logginPaciente.jsp</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/web/ConfirmarAgendamento.jsp</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/src/java/br/ufscar/dc/SistemaMedico/dao/ConsultaDAO.java</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/src/java/br/ufscar/dc/SitemaMedico/beans/Medico.java</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/src/java/br/ufscar/dc/SistemaMedico/servlets/NovoVerificaConsultaServlet.java</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/src/java/br/ufscar/dc/SistemaMedico/servlets/verPacienteServlet.java</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/src/java/br/ufscar/dc/SistemaMedico/forms/NovoPacienteFormBean.java</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/web/Loggin_paciente_admin.jsp</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/web/autenticacao_paciente_admin.jsp</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/web/pegarParametros.jsp</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/src/java/br/ufscar/dc/SistemaMedico/servlets/NovoPacienteServlet.java</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/src/java/br/ufscar/dc/SitemaMedico/beans/Paciente.java</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/src/java/br/ufscar/dc/SistemaMedico/servlets/GravarConsultaServlet.java</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/src/java/br/ufscar/dc/SistemaMedico/dao/MedicoDAO.java</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/web/agendamento.jsp</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/web/index.jsp</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/src/java/br/ufscar/dc/SistemaMedico/servlets/NovaConsultaServlet.java</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/src/java/br/ufscar/dc/SistemaMedico/servlets/GravarMedicoServlet.java</file>
+            <file>file:/C:/Users/Camila%20Araujo/Desktop/SistemaMedico/web/cadastroPacienteForm.jsp</file>
+        </group>
+    </open-files>
+</project-private>
